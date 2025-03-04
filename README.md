@@ -1,2 +1,5 @@
+![fib](./fib.png)
+
 # fibonacci
-The general term formula of the Fibonacci sequence and the golden ratio are used as the cover for books or journals.
+
+Drawing the golden ratio pattern and the general term formula of the Fibonacci sequence using LaTeX might be suitable for the cover of a book or journal.
